@@ -1,0 +1,1 @@
+<center><p class="text-info">Copyright © 2015 SNPF | BY <span class="badge">SNPF-IT</span></p></center>
